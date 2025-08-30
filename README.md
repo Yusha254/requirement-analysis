@@ -17,7 +17,7 @@ Requirement analysis is a critical phase in the software development life cycle 
 ## Key Activities in Requirement Analysis
 
 ### 1. Requirement Gathering
-- Collect requirements via interviews, surveys, observations.  
+- Collect requirements via interviews, surveys, and observations.  
 - Hold workshops with stakeholders.  
 - Review existing documentation.  
 
@@ -30,7 +30,7 @@ Requirement analysis is a critical phase in the software development life cycle 
 - Include: functional & non-functional requirements, user stories, use case diagrams.  
 
 ### 4. Requirement Analysis and Modeling
-- Assess feasibility of requirements.  
+- Assess the feasibility of requirements.  
 - Prioritize based on project importance.  
 - Create models (e.g., data flow diagrams) to visualize requirements.  
 
