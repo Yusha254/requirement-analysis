@@ -66,7 +66,7 @@ Describe **how** the system should perform. Example (Booking System):
 
 Visual representation of how users interact with the system:  
 
-![Use Case Diagram](https://drive.google.com/uc?export=view&id=1p7Hldj2EdNH4N6MIpKlj9GGh5xnqZQmg)
+![Use Case Diagram](./alx-booking-uc.png)
 
 ---
 
